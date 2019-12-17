@@ -1,5 +1,4 @@
-# CD_getting_started
-Coding Dojo Getting Started
+# coding-dojo-getting-started
 
 Master Checklist
 1. Read through all Getting Started modules found here in the Getting Started chapter. Be sure to carefully read through and adhere to our honor code. (1 hr)
